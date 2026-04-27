@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Tran Duy Binh
 
-**Frontend Developer | Next.js Specialist | ERP Systems**
+**Frontend Developer | Next.js Specialist**
 
 I'm a passionate frontend developer with **3+ years of experience** building high-performance web applications. I specialize in creating complex dashboards and dynamic forms for educational institutions using modern JavaScript frameworks.
 
