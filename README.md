@@ -16,20 +16,6 @@ I'm a passionate frontend developer with **3+ years of experience** building hig
 
 ---
 
-## 💻 Key Projects
-
-### 📚 Student & Staff Service Portal
-- Enterprise ERP front-end for educational institutions
-- Features: Service management, user authentication, responsive UI
-- **Tech Stack**: Next.js App Router, TypeScript, React Query, Tailwind CSS
-
-### 📊 University Dashboard
-- High-performance analytics and data visualization
-- Complex forms handling sophisticated business logic
-- **Tech Stack**: Next.js, shadcn/ui, PostgreSQL, server-side rendering
-
----
-
 ## 🛠️ Technology Stack
 
 ### Frontend
