@@ -38,7 +38,7 @@ I'm a passionate frontend developer with **3+ years of experience** building hig
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JavaScript/javascript1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg">
 </div>
 
 ### Backend & Database
