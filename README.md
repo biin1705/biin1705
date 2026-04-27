@@ -43,7 +43,7 @@ I'm a passionate frontend developer with **3+ years of experience** building hig
 
 ### Backend & Database
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Node.js/node.js1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg">
 </div>
